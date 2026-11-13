@@ -1,6 +1,6 @@
 # Benchmark properties, not method differences, dominate cross-context perturbation prediction
 
-Analysis code and derived data for the paper of that title (Mongan Wang,
+Analysis code and derived data for the paper of that title (Morgan Wang,
 ORCID 0009-0002-2725-2948).
 
 ## What is here
