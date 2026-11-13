@@ -1,0 +1,223 @@
+{
+ "dataset": "k562",
+ "align_max_cells": 256,
+ "n_scored": 30,
+ "n_aligned": 30,
+ "n_unaligned": 0,
+ "rows": [
+  {
+   "target": "AAMP",
+   "n_cells": 99,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.15374464470169133,
+   "var_ratio": 0.9704830053667254
+  },
+  {
+   "target": "ABCB7",
+   "n_cells": 199,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.13416236326213393,
+   "var_ratio": 1.0024371137609884
+  },
+  {
+   "target": "ANKRD11",
+   "n_cells": 256,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.12873106858382458,
+   "var_ratio": 0.8943585881736625
+  },
+  {
+   "target": "AQP7",
+   "n_cells": 108,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.13702134322805015,
+   "var_ratio": 1.125707102451288
+  },
+  {
+   "target": "BNIP1",
+   "n_cells": 111,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.14767805673727288,
+   "var_ratio": 1.0665015917934209
+  },
+  {
+   "target": "COPB1",
+   "n_cells": 91,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.14255922684540967,
+   "var_ratio": 1.1258131036962191
+  },
+  {
+   "target": "DYNLRB1",
+   "n_cells": 256,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.12015321625092787,
+   "var_ratio": 0.9841398334900462
+  },
+  {
+   "target": "EMC3",
+   "n_cells": 195,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.12944806772802334,
+   "var_ratio": 1.0540109792810337
+  },
+  {
+   "target": "ETF1",
+   "n_cells": 52,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.17431667404510573,
+   "var_ratio": 1.1910695742471447
+  },
+  {
+   "target": "ICE1",
+   "n_cells": 256,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.1673769173231764,
+   "var_ratio": 1.0
+  },
+  {
+   "target": "METTL23",
+   "n_cells": 114,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.1414376550232251,
+   "var_ratio": 1.057114228456914
+  },
+  {
+   "target": "MKRN1",
+   "n_cells": 160,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.1299136313495339,
+   "var_ratio": 1.0898634076204174
+  },
+  {
+   "target": "NCBP1",
+   "n_cells": 60,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.15692008936170718,
+   "var_ratio": 1.516339869281046
+  },
+  {
+   "target": "NOL10",
+   "n_cells": 25,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.15666550234325713,
+   "var_ratio": 1.373007842145206
+  },
+  {
+   "target": "NSF",
+   "n_cells": 165,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.13145133986481966,
+   "var_ratio": 1.096147839666839
+  },
+  {
+   "target": "ORC3",
+   "n_cells": 181,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.128417489287803,
+   "var_ratio": 1.0970609126336641
+  },
+  {
+   "target": "OXA1L",
+   "n_cells": 256,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.13182602994246698,
+   "var_ratio": 1.1373677660236465
+  },
+  {
+   "target": "PHAX",
+   "n_cells": 256,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.13701695530522898,
+   "var_ratio": 1.0114570114570114
+  },
+  {
+   "target": "PHF5A",
+   "n_cells": 231,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.15006980455169952,
+   "var_ratio": 1.1345123350053952
+  },
+  {
+   "target": "PSMD1",
+   "n_cells": 256,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.15924236291174892,
+   "var_ratio": 1.0380745210862397
+  },
+  {
+   "target": "RCOR1",
+   "n_cells": 35,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.16446975771211542,
+   "var_ratio": 1.0
+  },
+  {
+   "target": "RPS13",
+   "n_cells": 135,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.14693330670760393,
+   "var_ratio": 1.3431563957093982
+  },
+  {
+   "target": "SDHAF2",
+   "n_cells": 126,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.14697483520481386,
+   "var_ratio": 1.0
+  },
+  {
+   "target": "SETD2",
+   "n_cells": 109,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.14154176907134905,
+   "var_ratio": 0.9276759884281581
+  },
+  {
+   "target": "SNRNP200",
+   "n_cells": 169,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.17050788265809513,
+   "var_ratio": 0.9608197709463532
+  },
+  {
+   "target": "TAF12",
+   "n_cells": 67,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.17403724861794956,
+   "var_ratio": 1.3953784675166248
+  },
+  {
+   "target": "TDGF1",
+   "n_cells": 106,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.1430321989805105,
+   "var_ratio": 1.0865445356917245
+  },
+  {
+   "target": "TTK",
+   "n_cells": 199,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.14726096436680103,
+   "var_ratio": 0.9346684175968478
+  },
+  {
+   "target": "UNC45A",
+   "n_cells": 178,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.13016354476022382,
+   "var_ratio": 0.9554279354479656
+  },
+  {
+   "target": "ZNF559",
+   "n_cells": 111,
+   "aligned": true,
+   "agg_err_over_iid_se": 0.14913371086377258,
+   "var_ratio": 1.0291812456263105
+  }
+ ],
+ "aligned": {
+  "agg_err_over_iid_se": 0.1449827528440572,
+  "var_ratio": 1.0555626038689738
+ }
+}

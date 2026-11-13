@@ -1,0 +1,92 @@
+{
+ "n_knockdowns": 40,
+ "n_genes": 2000,
+ "draws": 2000,
+ "knockdowns": [
+  "AHCTF1",
+  "ARIH1",
+  "BUD31",
+  "CCNK",
+  "CHMP3",
+  "CPOX",
+  "DCTN2",
+  "DNLZ",
+  "DOHH",
+  "DOLK",
+  "EDC4",
+  "EIF3G",
+  "EPRS",
+  "ETF1",
+  "FXN",
+  "GMPS",
+  "GTF2H3",
+  "GTF3C1",
+  "HAUS1",
+  "HNRNPL",
+  "MTBP",
+  "MTPAP",
+  "MYO1H",
+  "NUP88",
+  "NUP93",
+  "PARN",
+  "POLR3H",
+  "RAD9A",
+  "RBM28",
+  "SETD2",
+  "SF3A2",
+  "SLC39A10",
+  "SYMPK",
+  "TNPO3",
+  "TSEN2",
+  "UBC",
+  "UBR4",
+  "WDR70",
+  "YKT6",
+  "ZCCHC9"
+ ],
+ "models": {
+  "GEARS": {
+   "overall": 0.3417249467250475,
+   "overall_ci": [
+    0.2431566342863468,
+    0.41804166335134774
+   ],
+   "specific": 0.06973069030562168,
+   "specific_ci": [
+    -0.08764054937159098,
+    0.19140891526739848
+   ]
+  },
+  "ridge": {
+   "overall": 0.7113642881845903,
+   "overall_ci": [
+    0.6058472931626535,
+    0.8082236820787595
+   ],
+   "specific": 0.6501478070503662,
+   "specific_ci": [
+    0.5251869993642205,
+    0.7673678428176457
+   ]
+  },
+  "mean delta": {
+   "overall": 0.3793909759899898,
+   "overall_ci": [
+    0.3016335708385798,
+    0.45166607473928816
+   ],
+   "specific": 0.0,
+   "specific_ci": [
+    0.0,
+    0.0
+   ]
+  }
+ },
+ "ridge_minus_gears_specific": {
+  "point": 0.5804171167447445,
+  "ci": [
+   0.39380113132480543,
+   0.7950136368917652
+  ]
+ }
+}

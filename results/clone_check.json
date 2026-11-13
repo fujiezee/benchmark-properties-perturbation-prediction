@@ -1,0 +1,11 @@
+{
+ "a": "Weissman K562 essential",
+ "b": "Weissman K562 genome-wide",
+ "knockdowns": 2053,
+ "genes": 8200,
+ "within_sb_median": 0.40653771000191175,
+ "between_median": 0.33183770142063485,
+ "excess_median": 0.05252292407009418,
+ "frac_within_exceeds": 0.9245007306380906,
+ "ratio": 1.2251100711627332
+}

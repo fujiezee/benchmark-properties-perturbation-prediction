@@ -1,0 +1,108 @@
+{
+ "draws": 2000,
+ "composite": {
+  "align_all": 0.008291814995672019,
+  "align_small": 0.026878995603468337
+ },
+ "metrics": [
+  {
+   "metric": "expr_mse_unbiased",
+   "n": 23,
+   "align_all": 0.0013711519528054217,
+   "align_small": 0.001709770588033097,
+   "difference": 0.00033861863522767537,
+   "ci_low": 0.00028484252509109484,
+   "ci_high": 0.00038277316681505465,
+   "excludes_zero": true,
+   "positive_fraction": 1.0
+  },
+  {
+   "metric": "de_wilcoxon_direction_fidelity_yield_raw",
+   "n": 23,
+   "align_all": 0.15645282338568714,
+   "align_small": 0.254711158194837,
+   "difference": 0.09825833480914978,
+   "ci_low": 0.05036272362808683,
+   "ci_high": 0.1610580682685339,
+   "excludes_zero": true,
+   "positive_fraction": 1.0
+  },
+  {
+   "metric": "de_wilcoxon_sig_jaccard",
+   "n": 23,
+   "align_all": 0.020439713168861385,
+   "align_small": 0.02969741060749542,
+   "difference": 0.009257697438634029,
+   "ci_low": 0.004129527448808093,
+   "ci_high": 0.015505920243879276,
+   "excludes_zero": true,
+   "positive_fraction": 1.0
+  },
+  {
+   "metric": "expr_mse_unbiased_capped",
+   "n": 23,
+   "align_all": 0.001693079542335217,
+   "align_small": 0.0017278774135709423,
+   "difference": 3.4797871235724893e-05,
+   "ci_low": -4.36752721770105e-05,
+   "ci_high": 9.676267212883964e-05,
+   "excludes_zero": false,
+   "positive_fraction": 0.8375
+  },
+  {
+   "metric": "de_wilcoxon_direction_reach_raw",
+   "n": 23,
+   "align_all": 0.22588123903376903,
+   "align_small": 0.18428543198768466,
+   "difference": -0.04159580704608438,
+   "ci_low": -0.13288575507685177,
+   "ci_high": 0.07466230230123139,
+   "excludes_zero": false,
+   "positive_fraction": 0.2235
+  },
+  {
+   "metric": "de_wilcoxon_lfc_nmae",
+   "n": 21,
+   "align_all": 0.8970318445492753,
+   "align_small": 0.9012294091291447,
+   "difference": 0.0041975645798695655,
+   "ci_low": -0.008347273638029068,
+   "ci_high": 0.015356435071399676,
+   "excludes_zero": false,
+   "positive_fraction": 0.7525
+  },
+  {
+   "metric": "pds_cosine",
+   "n": 23,
+   "align_all": 0.5256916996047429,
+   "align_small": 0.5237154150197627,
+   "difference": -0.0019762845849802353,
+   "ci_low": -0.025741106719367586,
+   "ci_high": 0.021739130434782615,
+   "excludes_zero": false,
+   "positive_fraction": 0.415
+  },
+  {
+   "metric": "expr_distance_unbiased",
+   "n": 23,
+   "align_all": 0.0017575726936113916,
+   "align_small": 0.0017575726936113916,
+   "difference": 0.0,
+   "ci_low": 0.0,
+   "ci_high": 0.0,
+   "excludes_zero": false,
+   "positive_fraction": 0.0
+  },
+  {
+   "metric": "expr_real_mass_ratio",
+   "n": 23,
+   "align_all": 1.0,
+   "align_small": 1.0,
+   "difference": 0.0,
+   "ci_low": 0.0,
+   "ci_high": 0.0,
+   "excludes_zero": false,
+   "positive_fraction": 0.0
+  }
+ ]
+}
